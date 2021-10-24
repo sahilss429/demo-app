@@ -1,2 +1,2 @@
 #!/usr/bin/env groovy
-deployApplication('hello')
+firstGroovyFunction('hello')
